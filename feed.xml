@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Samuloop.github.io</title>
+<link>https://samuloop.github.io</link>
+<ttl>1440</ttl>
+<description>Web programming and Seo Tips from SamuLoop</description>
+<copyright>Copyright (c) 2021 - SamuLoop</copyright>
+<lastBuildDate>Sat, 26 Jan 2021 00:00:00 +0200</lastBuildDate>
+<webMaster>samu@krutt.org</webMaster>
+</channel>
+</rss>
